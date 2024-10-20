@@ -16,4 +16,4 @@ This project displays a digital clock on a webpage, which shows the current time
 - JavaScript for fetching and updating the time every second.
 
 ## Demo
-You can access the live demo here:
+You can access the live demo here:(https://itz-sidra.github.io/Digital-Clock/)
